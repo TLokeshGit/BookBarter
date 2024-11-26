@@ -1,6 +1,6 @@
-### BookBarter
+### NovelShare
 
-BookBarter simplifies the book-sharing experience for bibliophiles by facilitating secure and organized book exchanges within a community of like-minded readers. It is an online platform designed for avid readers to connect and share their literary interests. Users can register their books on the platform, making them visible in their profiles for exchange with other users.
+NovelShare simplifies the book-sharing experience for bibliophiles by facilitating secure and organized book exchanges within a community of like-minded readers. It is an online platform designed for avid readers to connect and share their literary interests. Users can register their books on the platform, making them visible in their profiles for exchange with other users.
 
 ![image](https://github.com/desmondlb/BookBarter/blob/main/frontend/assets/frontpage.png)
 
