@@ -10,7 +10,7 @@ NovelShare simplifies the book-sharing experience for bibliophiles by facilitati
 - **Back-end:** Node.js, Express.js
 - **Database:** SQLite
 - **Authentication:** JWT (JSON Web Tokens)
-- **Deployment:** Heroku, Netlify
+- **Deployment:** Netlify
 - **Version Control:** Git, GitHub
 
 ## API Endpoints
